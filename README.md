@@ -1,5 +1,7 @@
 # Reddibhathuni Ruchitha - Portfolio
-This Portfolio repository shows my skills, projects, education and Experience.
+Highly seasoned and reliable Business Analyst with a superb customer satisfaction record. Adept at interdepartmental
+coordination to maximize business functionality and efficiency. I bring with me a dedication to innovation and my ongoing
+professional development as well as advanced management, research, and problem-solving skills.
 
 ## Education
 #### Durham College - Canada.
