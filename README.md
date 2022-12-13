@@ -38,5 +38,5 @@ This API can give the weather details of the cities worldwide.
 This details consists of the current temperature along with minimum & maximum temperature in celsius.
 >
 
-
+![alt text](My_Business_Analyst_Skills_Roadmap.png "My Business Analyst Skills Roadmap")
 
